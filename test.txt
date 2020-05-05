@@ -2,3 +2,6 @@ some master branch code
 some more master branch code
 
 some more code here that gets pushed to master branch
+
+Now here is some dev code
+This code is not on master branch yet
